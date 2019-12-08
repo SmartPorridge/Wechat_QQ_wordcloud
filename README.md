@@ -1,0 +1,2 @@
+# Wechat_QQ_wordcloud
+导出微信或者QQ聊天记录生成词云
