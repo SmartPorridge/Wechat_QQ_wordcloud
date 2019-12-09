@@ -8,5 +8,5 @@ https://mp.weixin.qq.com/s/vv0diJfo45vZdopZww8Huw
 ## 效果图
 ![image](https://github.com/SmartPorridge/Wechat_QQ_wordcloud/blob/master/v2-8907682f5aff293a51fc7ab289425afc_r.jpg)
 
-## 欢迎关注WX公众号：arXiv每日论文速递
+## 欢迎欢迎关注WX公众号，感谢支持
 ![image](https://github.com/SmartPorridge/Wechat_QQ_wordcloud/blob/master/2019-12-09_153707.png)
